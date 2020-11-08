@@ -1,1 +1,1 @@
-# Coursera_Capstone
+# Clustering of restaurants in Atlanta
